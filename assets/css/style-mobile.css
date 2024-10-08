@@ -1,0 +1,11 @@
+@media (width <= 960px) {
+  #img--dog {
+    width: 80vw;
+  }
+
+  .div--card {
+    background-color: #fff;
+    box-shadow: 0px 2px 4px #999;
+    width: calc(100% - 20px);
+  }
+}
